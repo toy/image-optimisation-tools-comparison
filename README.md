@@ -9,6 +9,16 @@ tools
 npm install image-optimisation-tools-comparison
 ```
 
+## Dependencies
+
+### ImageMagick
+
+This project uses [`compare`](http://www.imagemagick.org/script/compare.php) from
+[ImageMagick](http://www.imagemagick.org/), so you will need to have that installed.
+
+If you encounter errors related to `dyld library not loaded`, this is also related to your
+environment and installation of ImageMagick and will need resolving before you are ready to begin.
+
 ## Usage
 
 This module is required in the normal way.
