@@ -88,15 +88,13 @@
    */
   exports.setDifferences = function(results) {
     results.Images.forEach(function(result) {
-      if (result.tool !== 'photoshop' && result.tool !== 'worst') {
-        var original = results.ImagesByToolByName.photoshop[result.name];
-        var worst = results.ImagesByToolByName.worst[result.name];
-        result.sizeSaving = original.size - result.size;
-        result.sizeSavingPercent = (result.sizeSaving / original.size) * 100;
-        result.qualityLossPercent = 0;
-        if (worst && result.meanErrorSquared) {
-          result.qualityLossPercent = (result.meanErrorSquared / worst.meanErrorSquared) * 100;
-        }
+      var original = results.ImagesByToolByName.photoshop[result.name];
+      var worst = results.ImagesByToolByName.worst[result.name];
+      result.sizeSaving = original.size - result.size;
+      result.sizeSavingPercent = (result.sizeSaving / original.size) * 100;
+      result.qualityLossPercent = 0;
+      if (worst && result.meanErrorSquared) {
+        result.qualityLossPercent = (result.meanErrorSquared / worst.meanErrorSquared) * 100;
       }
     });
     return results;
