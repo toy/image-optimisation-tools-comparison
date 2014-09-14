@@ -49,7 +49,7 @@ comparison.compare()
   });
 ```
 
-### `results`
+### `results` Object
 
 `comparison.results` and `comparison.compare` both return a promise for a `results` Object, which
 contains the following members.
@@ -59,6 +59,21 @@ contains the following members.
 + [`results.ImagesByName`](https://github.com/JamieMason/image-optimisation-tools-comparison/blob/master/data/raw/ImagesByName.json)
 + [`results.ImagesByToolByName`](https://github.com/JamieMason/image-optimisation-tools-comparison/blob/master/data/raw/ImagesByToolByName.json)
 + [`results.ImagesByNameByTool`](https://github.com/JamieMason/image-optimisation-tools-comparison/blob/master/data/raw/ImagesByNameByTool.json)
+
+Every result is in the following format.
+
+```javascript
+{
+  "name": "jpeg-progressive_logo.jpg",
+  "tool": "jpegmini-and-imageoptim",
+  "type": "jpeg-progressive",
+  "meanErrorSquared": 2.69691,
+  "qualityLossPercent": 4.09806820616539,
+  "size": 25731,
+  "sizeSaving": 24748,
+  "sizeSavingPercent": 49.02632777986886
+}
+```
 
 ## Reference images
 
