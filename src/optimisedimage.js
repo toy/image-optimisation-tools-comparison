@@ -42,7 +42,7 @@
      *
      * @property {String}
      */
-    this.property = this.name.split('_')[0];
+    this.type = this.name.split('_')[0];
 
     /**
      * @description

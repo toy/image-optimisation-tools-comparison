@@ -2,7 +2,7 @@
   {
     "name": "gif-interlaced_bril.gif",
     "tool": "codekit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 68188,
@@ -12,7 +12,7 @@
   {
     "name": "gif-interlaced_grote-ogen.gif",
     "tool": "codekit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 80562,
@@ -22,7 +22,7 @@
   {
     "name": "gif-interlaced_logo.gif",
     "tool": "codekit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9903,
@@ -32,7 +32,7 @@
   {
     "name": "gif-interlaced_oog.gif",
     "tool": "codekit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 117327,
@@ -42,7 +42,7 @@
   {
     "name": "gif-interlaced_patroon.gif",
     "tool": "codekit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20904,
@@ -52,7 +52,7 @@
   {
     "name": "gif-interlaced_rood.gif",
     "tool": "codekit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 99005,
@@ -62,7 +62,7 @@
   {
     "name": "gif-interlaced_skyline.gif",
     "tool": "codekit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 127436,
@@ -72,7 +72,7 @@
   {
     "name": "gif-interlaced_streepjes.gif",
     "tool": "codekit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -82,7 +82,7 @@
   {
     "name": "gif-interlaced_wolk.gif",
     "tool": "codekit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108607,
@@ -92,7 +92,7 @@
   {
     "name": "gif_bril.gif",
     "tool": "codekit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75646,
@@ -102,7 +102,7 @@
   {
     "name": "gif_grote-ogen.gif",
     "tool": "codekit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89330,
@@ -112,7 +112,7 @@
   {
     "name": "gif_logo.gif",
     "tool": "codekit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 10577,
@@ -122,7 +122,7 @@
   {
     "name": "gif_oog.gif",
     "tool": "codekit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125547,
@@ -132,7 +132,7 @@
   {
     "name": "gif_patroon.gif",
     "tool": "codekit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20226,
@@ -142,7 +142,7 @@
   {
     "name": "gif_rood.gif",
     "tool": "codekit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108099,
@@ -152,7 +152,7 @@
   {
     "name": "gif_skyline.gif",
     "tool": "codekit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 136200,
@@ -162,7 +162,7 @@
   {
     "name": "gif_streepjes.gif",
     "tool": "codekit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -172,7 +172,7 @@
   {
     "name": "gif_wolk.gif",
     "tool": "codekit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119143,
@@ -182,7 +182,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "codekit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89934,
@@ -192,7 +192,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "codekit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 105951,
@@ -202,7 +202,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "codekit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 53076,
@@ -212,7 +212,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "codekit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 153158,
@@ -222,7 +222,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "codekit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 213980,
@@ -232,7 +232,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "codekit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125797,
@@ -242,7 +242,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "codekit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 223295,
@@ -252,7 +252,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "codekit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86085,
@@ -262,7 +262,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "codekit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86058,
@@ -272,7 +272,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "codekit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 87258,
@@ -282,7 +282,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "codekit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 102200,
@@ -292,7 +292,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "codekit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 50479,
@@ -302,7 +302,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "codekit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 149251,
@@ -312,7 +312,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "codekit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 206994,
@@ -322,7 +322,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "codekit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 121193,
@@ -332,7 +332,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "codekit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 213285,
@@ -342,7 +342,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "codekit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86085,
@@ -352,7 +352,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "codekit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 84376,
@@ -362,7 +362,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "codekit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89934,
@@ -372,7 +372,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "codekit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 105951,
@@ -382,7 +382,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "codekit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 53076,
@@ -392,7 +392,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "codekit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 153158,
@@ -402,7 +402,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "codekit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 213980,
@@ -412,7 +412,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "codekit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125797,
@@ -422,7 +422,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "codekit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 223295,
@@ -432,7 +432,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "codekit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86085,
@@ -442,7 +442,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "codekit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86058,
@@ -452,7 +452,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "codekit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 248926,
@@ -462,7 +462,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "codekit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 267551,
@@ -472,7 +472,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "codekit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 14558,
@@ -482,7 +482,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "codekit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 383618,
@@ -492,7 +492,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "codekit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 17541,
@@ -502,7 +502,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "codekit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 328219,
@@ -512,7 +512,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "codekit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 447156,
@@ -522,7 +522,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "codekit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2729,
@@ -532,7 +532,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "codekit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 251645,
@@ -542,7 +542,7 @@
   {
     "name": "png24_bril.png",
     "tool": "codekit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 209359,
@@ -552,7 +552,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "codekit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 222041,
@@ -562,7 +562,7 @@
   {
     "name": "png24_logo.png",
     "tool": "codekit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 10762,
@@ -572,7 +572,7 @@
   {
     "name": "png24_oog.png",
     "tool": "codekit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 325078,
@@ -582,7 +582,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "codekit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 16460,
@@ -592,7 +592,7 @@
   {
     "name": "png24_rood.png",
     "tool": "codekit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 274518,
@@ -602,7 +602,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "codekit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 386984,
@@ -612,7 +612,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "codekit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2240,
@@ -622,7 +622,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "codekit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 217914,
@@ -632,7 +632,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "codekit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 74929,
@@ -642,7 +642,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "codekit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86341,
@@ -652,7 +652,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "codekit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 10339,
@@ -662,7 +662,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "codekit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126072,
@@ -672,7 +672,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "codekit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6565,
@@ -682,7 +682,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "codekit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 105652,
@@ -692,7 +692,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "codekit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 131750,
@@ -702,7 +702,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "codekit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 1995,
@@ -712,7 +712,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "codekit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 111512,
@@ -722,7 +722,7 @@
   {
     "name": "png8_bril.png",
     "tool": "codekit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 60869,
@@ -732,7 +732,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "codekit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 68183,
@@ -742,7 +742,7 @@
   {
     "name": "png8_logo.png",
     "tool": "codekit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 7681,
@@ -752,7 +752,7 @@
   {
     "name": "png8_oog.png",
     "tool": "codekit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 106374,
@@ -762,7 +762,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "codekit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6080,
@@ -772,7 +772,7 @@
   {
     "name": "png8_rood.png",
     "tool": "codekit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 84088,
@@ -782,7 +782,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "codekit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 111579,
@@ -792,7 +792,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "codekit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 1718,
@@ -802,7 +802,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "codekit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 92568,
@@ -812,7 +812,7 @@
   {
     "name": "gif-interlaced_bril.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 68188,
@@ -822,7 +822,7 @@
   {
     "name": "gif-interlaced_grote-ogen.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 80562,
@@ -832,7 +832,7 @@
   {
     "name": "gif-interlaced_logo.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9903,
@@ -842,7 +842,7 @@
   {
     "name": "gif-interlaced_oog.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 117327,
@@ -852,7 +852,7 @@
   {
     "name": "gif-interlaced_patroon.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20904,
@@ -862,7 +862,7 @@
   {
     "name": "gif-interlaced_rood.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 99005,
@@ -872,7 +872,7 @@
   {
     "name": "gif-interlaced_skyline.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 127436,
@@ -882,7 +882,7 @@
   {
     "name": "gif-interlaced_streepjes.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -892,7 +892,7 @@
   {
     "name": "gif-interlaced_wolk.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108607,
@@ -902,7 +902,7 @@
   {
     "name": "gif_bril.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75646,
@@ -912,7 +912,7 @@
   {
     "name": "gif_grote-ogen.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89330,
@@ -922,7 +922,7 @@
   {
     "name": "gif_logo.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 10577,
@@ -932,7 +932,7 @@
   {
     "name": "gif_oog.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125547,
@@ -942,7 +942,7 @@
   {
     "name": "gif_patroon.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20226,
@@ -952,7 +952,7 @@
   {
     "name": "gif_rood.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108099,
@@ -962,7 +962,7 @@
   {
     "name": "gif_skyline.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 136200,
@@ -972,7 +972,7 @@
   {
     "name": "gif_streepjes.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -982,7 +982,7 @@
   {
     "name": "gif_wolk.gif",
     "tool": "grunt-contrib-imagemin",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119143,
@@ -992,7 +992,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89934,
@@ -1002,7 +1002,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 105951,
@@ -1012,7 +1012,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 53076,
@@ -1022,7 +1022,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 153158,
@@ -1032,7 +1032,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 213980,
@@ -1042,7 +1042,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125797,
@@ -1052,7 +1052,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 223295,
@@ -1062,7 +1062,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86085,
@@ -1072,7 +1072,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86058,
@@ -1082,7 +1082,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89934,
@@ -1092,7 +1092,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 105951,
@@ -1102,7 +1102,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 53076,
@@ -1112,7 +1112,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 153158,
@@ -1122,7 +1122,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 213980,
@@ -1132,7 +1132,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125797,
@@ -1142,7 +1142,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 223295,
@@ -1152,7 +1152,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86085,
@@ -1162,7 +1162,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86058,
@@ -1172,7 +1172,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89934,
@@ -1182,7 +1182,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 105951,
@@ -1192,7 +1192,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 53076,
@@ -1202,7 +1202,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 153158,
@@ -1212,7 +1212,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 213980,
@@ -1222,7 +1222,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125797,
@@ -1232,7 +1232,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 223295,
@@ -1242,7 +1242,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86085,
@@ -1252,7 +1252,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "grunt-contrib-imagemin",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86058,
@@ -1262,7 +1262,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 246944,
@@ -1272,7 +1272,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 266630,
@@ -1282,7 +1282,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9455,
@@ -1292,7 +1292,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 382105,
@@ -1302,7 +1302,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5694,
@@ -1312,7 +1312,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 327089,
@@ -1322,7 +1322,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 443931,
@@ -1332,7 +1332,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 374,
@@ -1342,7 +1342,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 237762,
@@ -1352,7 +1352,7 @@
   {
     "name": "png24_bril.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 205029,
@@ -1362,7 +1362,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 221102,
@@ -1372,7 +1372,7 @@
   {
     "name": "png24_logo.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6767,
@@ -1382,7 +1382,7 @@
   {
     "name": "png24_oog.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 317077,
@@ -1392,7 +1392,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 4675,
@@ -1402,7 +1402,7 @@
   {
     "name": "png24_rood.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 271907,
@@ -1412,7 +1412,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 385715,
@@ -1422,7 +1422,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 341,
@@ -1432,7 +1432,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 211205,
@@ -1442,7 +1442,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 74008,
@@ -1452,7 +1452,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 85420,
@@ -1462,7 +1462,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9418,
@@ -1472,7 +1472,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125151,
@@ -1482,7 +1482,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5644,
@@ -1492,7 +1492,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 104731,
@@ -1502,7 +1502,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 130829,
@@ -1512,7 +1512,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 374,
@@ -1522,7 +1522,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 110591,
@@ -1532,7 +1532,7 @@
   {
     "name": "png8_bril.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 59946,
@@ -1542,7 +1542,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 67260,
@@ -1552,7 +1552,7 @@
   {
     "name": "png8_logo.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6760,
@@ -1562,7 +1562,7 @@
   {
     "name": "png8_oog.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 105451,
@@ -1572,7 +1572,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 4756,
@@ -1582,7 +1582,7 @@
   {
     "name": "png8_rood.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 83164,
@@ -1592,7 +1592,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 110655,
@@ -1602,7 +1602,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 341,
@@ -1612,7 +1612,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "grunt-contrib-imagemin",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 91645,
@@ -1622,7 +1622,7 @@
   {
     "name": "gif-interlaced_bril.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 67142,
@@ -1632,7 +1632,7 @@
   {
     "name": "gif-interlaced_grote-ogen.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 79516,
@@ -1642,7 +1642,7 @@
   {
     "name": "gif-interlaced_logo.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 8857,
@@ -1652,7 +1652,7 @@
   {
     "name": "gif-interlaced_oog.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 116282,
@@ -1662,7 +1662,7 @@
   {
     "name": "gif-interlaced_patroon.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 19181,
@@ -1672,7 +1672,7 @@
   {
     "name": "gif-interlaced_rood.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 97960,
@@ -1682,7 +1682,7 @@
   {
     "name": "gif-interlaced_skyline.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126391,
@@ -1692,7 +1692,7 @@
   {
     "name": "gif-interlaced_streepjes.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2573,
@@ -1702,7 +1702,7 @@
   {
     "name": "gif-interlaced_wolk.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 107562,
@@ -1712,7 +1712,7 @@
   {
     "name": "gif_bril.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 67142,
@@ -1722,7 +1722,7 @@
   {
     "name": "gif_grote-ogen.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 79516,
@@ -1732,7 +1732,7 @@
   {
     "name": "gif_logo.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 8857,
@@ -1742,7 +1742,7 @@
   {
     "name": "gif_oog.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 116282,
@@ -1752,7 +1752,7 @@
   {
     "name": "gif_patroon.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 19181,
@@ -1762,7 +1762,7 @@
   {
     "name": "gif_rood.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 97960,
@@ -1772,7 +1772,7 @@
   {
     "name": "gif_skyline.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126391,
@@ -1782,7 +1782,7 @@
   {
     "name": "gif_streepjes.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2573,
@@ -1792,7 +1792,7 @@
   {
     "name": "gif_wolk.gif",
     "tool": "imagealpha-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 107562,
@@ -1802,7 +1802,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 85704,
@@ -1812,7 +1812,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 100151,
@@ -1822,7 +1822,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 47699,
@@ -1832,7 +1832,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 145248,
@@ -1842,7 +1842,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 203036,
@@ -1852,7 +1852,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119419,
@@ -1862,7 +1862,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 209566,
@@ -1872,7 +1872,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75491,
@@ -1882,7 +1882,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 81793,
@@ -1892,7 +1892,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 85704,
@@ -1902,7 +1902,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 100151,
@@ -1912,7 +1912,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 47699,
@@ -1922,7 +1922,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 145248,
@@ -1932,7 +1932,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 203036,
@@ -1942,7 +1942,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119419,
@@ -1952,7 +1952,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 209566,
@@ -1962,7 +1962,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75491,
@@ -1972,7 +1972,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 81793,
@@ -1982,7 +1982,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 85704,
@@ -1992,7 +1992,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 100151,
@@ -2002,7 +2002,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 47699,
@@ -2012,7 +2012,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 145248,
@@ -2022,7 +2022,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 203036,
@@ -2032,7 +2032,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119419,
@@ -2042,7 +2042,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 209566,
@@ -2052,7 +2052,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75491,
@@ -2062,7 +2062,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "imagealpha-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 81793,
@@ -2072,7 +2072,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 2.89982,
     "qualityLossPercent": 9.781785185410067,
     "size": 80476,
@@ -2082,7 +2082,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 4.39109,
     "qualityLossPercent": 13.257401469726886,
     "size": 80937,
@@ -2092,7 +2092,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5571,
@@ -2102,7 +2102,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 4.90467,
     "qualityLossPercent": 17.368857190411603,
     "size": 133542,
@@ -2112,7 +2112,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3511,
@@ -2122,7 +2122,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 5.55653,
     "qualityLossPercent": 17.21887201735358,
     "size": 103346,
@@ -2132,7 +2132,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 8.31368,
     "qualityLossPercent": 18.322563582668487,
     "size": 119706,
@@ -2142,7 +2142,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 339,
@@ -2152,7 +2152,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 1.08067,
     "qualityLossPercent": 3.353920257222752,
     "size": 90422,
@@ -2162,7 +2162,7 @@
   {
     "name": "png24_bril.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 2.89982,
     "qualityLossPercent": 9.781785185410067,
     "size": 80476,
@@ -2172,7 +2172,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 4.39109,
     "qualityLossPercent": 13.257401469726886,
     "size": 80937,
@@ -2182,7 +2182,7 @@
   {
     "name": "png24_logo.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5577,
@@ -2192,7 +2192,7 @@
   {
     "name": "png24_oog.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 4.90467,
     "qualityLossPercent": 17.368857190411603,
     "size": 133542,
@@ -2202,7 +2202,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3510,
@@ -2212,7 +2212,7 @@
   {
     "name": "png24_rood.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 5.55653,
     "qualityLossPercent": 17.21887201735358,
     "size": 103346,
@@ -2222,7 +2222,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 8.31368,
     "qualityLossPercent": 18.322563582668487,
     "size": 119706,
@@ -2232,7 +2232,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 339,
@@ -2242,7 +2242,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 1.08067,
     "qualityLossPercent": 3.353920257222752,
     "size": 90422,
@@ -2252,7 +2252,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 55054,
@@ -2262,7 +2262,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 61978,
@@ -2272,7 +2272,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5572,
@@ -2282,7 +2282,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 96627,
@@ -2292,7 +2292,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3511,
@@ -2302,7 +2302,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 77140,
@@ -2312,7 +2312,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 103741,
@@ -2322,7 +2322,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 339,
@@ -2332,7 +2332,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 82051,
@@ -2342,7 +2342,7 @@
   {
     "name": "png8_bril.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 55054,
@@ -2352,7 +2352,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 61978,
@@ -2362,7 +2362,7 @@
   {
     "name": "png8_logo.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5565,
@@ -2372,7 +2372,7 @@
   {
     "name": "png8_oog.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 96627,
@@ -2382,7 +2382,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3522,
@@ -2392,7 +2392,7 @@
   {
     "name": "png8_rood.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 77140,
@@ -2402,7 +2402,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 103741,
@@ -2412,7 +2412,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 339,
@@ -2422,7 +2422,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "imagealpha-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 82051,
@@ -2432,7 +2432,7 @@
   {
     "name": "gif-interlaced_bril.gif",
     "tool": "imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 67142,
@@ -2442,7 +2442,7 @@
   {
     "name": "gif-interlaced_grote-ogen.gif",
     "tool": "imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 79516,
@@ -2452,7 +2452,7 @@
   {
     "name": "gif-interlaced_logo.gif",
     "tool": "imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 8857,
@@ -2462,7 +2462,7 @@
   {
     "name": "gif-interlaced_oog.gif",
     "tool": "imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 116282,
@@ -2472,7 +2472,7 @@
   {
     "name": "gif-interlaced_patroon.gif",
     "tool": "imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 19181,
@@ -2482,7 +2482,7 @@
   {
     "name": "gif-interlaced_rood.gif",
     "tool": "imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 97960,
@@ -2492,7 +2492,7 @@
   {
     "name": "gif-interlaced_skyline.gif",
     "tool": "imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126391,
@@ -2502,7 +2502,7 @@
   {
     "name": "gif-interlaced_streepjes.gif",
     "tool": "imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2573,
@@ -2512,7 +2512,7 @@
   {
     "name": "gif-interlaced_wolk.gif",
     "tool": "imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 107562,
@@ -2522,7 +2522,7 @@
   {
     "name": "gif_bril.gif",
     "tool": "imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 67142,
@@ -2532,7 +2532,7 @@
   {
     "name": "gif_grote-ogen.gif",
     "tool": "imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 79516,
@@ -2542,7 +2542,7 @@
   {
     "name": "gif_logo.gif",
     "tool": "imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 8857,
@@ -2552,7 +2552,7 @@
   {
     "name": "gif_oog.gif",
     "tool": "imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 116282,
@@ -2562,7 +2562,7 @@
   {
     "name": "gif_patroon.gif",
     "tool": "imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 19181,
@@ -2572,7 +2572,7 @@
   {
     "name": "gif_rood.gif",
     "tool": "imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 97960,
@@ -2582,7 +2582,7 @@
   {
     "name": "gif_skyline.gif",
     "tool": "imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126391,
@@ -2592,7 +2592,7 @@
   {
     "name": "gif_streepjes.gif",
     "tool": "imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2573,
@@ -2602,7 +2602,7 @@
   {
     "name": "gif_wolk.gif",
     "tool": "imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 107562,
@@ -2612,7 +2612,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 85704,
@@ -2622,7 +2622,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 100151,
@@ -2632,7 +2632,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 47699,
@@ -2642,7 +2642,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 145248,
@@ -2652,7 +2652,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 203036,
@@ -2662,7 +2662,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119419,
@@ -2672,7 +2672,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 209566,
@@ -2682,7 +2682,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75491,
@@ -2692,7 +2692,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 81793,
@@ -2702,7 +2702,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 85704,
@@ -2712,7 +2712,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 100151,
@@ -2722,7 +2722,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 47699,
@@ -2732,7 +2732,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 145248,
@@ -2742,7 +2742,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 203036,
@@ -2752,7 +2752,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119419,
@@ -2762,7 +2762,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 209566,
@@ -2772,7 +2772,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75491,
@@ -2782,7 +2782,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 81793,
@@ -2792,7 +2792,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 85704,
@@ -2802,7 +2802,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 100151,
@@ -2812,7 +2812,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 47699,
@@ -2822,7 +2822,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 145248,
@@ -2832,7 +2832,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 203036,
@@ -2842,7 +2842,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119419,
@@ -2852,7 +2852,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 209566,
@@ -2862,7 +2862,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75491,
@@ -2872,7 +2872,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 81793,
@@ -2882,7 +2882,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 197589,
@@ -2892,7 +2892,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 217562,
@@ -2902,7 +2902,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5574,
@@ -2912,7 +2912,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 307531,
@@ -2922,7 +2922,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3508,
@@ -2932,7 +2932,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 264725,
@@ -2942,7 +2942,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 382779,
@@ -2952,7 +2952,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 340,
@@ -2962,7 +2962,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 201569,
@@ -2972,7 +2972,7 @@
   {
     "name": "png24_bril.png",
     "tool": "imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 197089,
@@ -2982,7 +2982,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 214296,
@@ -2992,7 +2992,7 @@
   {
     "name": "png24_logo.png",
     "tool": "imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5566,
@@ -3002,7 +3002,7 @@
   {
     "name": "png24_oog.png",
     "tool": "imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 307531,
@@ -3012,7 +3012,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3509,
@@ -3022,7 +3022,7 @@
   {
     "name": "png24_rood.png",
     "tool": "imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 264725,
@@ -3032,7 +3032,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 382779,
@@ -3042,7 +3042,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 340,
@@ -3052,7 +3052,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 201161,
@@ -3062,7 +3062,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 54865,
@@ -3072,7 +3072,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 61904,
@@ -3082,7 +3082,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5856,
@@ -3092,7 +3092,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 96460,
@@ -3102,7 +3102,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3694,
@@ -3112,7 +3112,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 76909,
@@ -3122,7 +3122,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 103594,
@@ -3132,7 +3132,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 340,
@@ -3142,7 +3142,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 82107,
@@ -3152,7 +3152,7 @@
   {
     "name": "png8_bril.png",
     "tool": "imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 54865,
@@ -3162,7 +3162,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 61904,
@@ -3172,7 +3172,7 @@
   {
     "name": "png8_logo.png",
     "tool": "imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5860,
@@ -3182,7 +3182,7 @@
   {
     "name": "png8_oog.png",
     "tool": "imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 96460,
@@ -3192,7 +3192,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3694,
@@ -3202,7 +3202,7 @@
   {
     "name": "png8_rood.png",
     "tool": "imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 76909,
@@ -3212,7 +3212,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 103594,
@@ -3222,7 +3222,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 340,
@@ -3232,7 +3232,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 82107,
@@ -3242,7 +3242,7 @@
   {
     "name": "gif-interlaced_bril.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 67142,
@@ -3252,7 +3252,7 @@
   {
     "name": "gif-interlaced_grote-ogen.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 79516,
@@ -3262,7 +3262,7 @@
   {
     "name": "gif-interlaced_logo.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 8857,
@@ -3272,7 +3272,7 @@
   {
     "name": "gif-interlaced_oog.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 116282,
@@ -3282,7 +3282,7 @@
   {
     "name": "gif-interlaced_patroon.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 19181,
@@ -3292,7 +3292,7 @@
   {
     "name": "gif-interlaced_rood.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 97960,
@@ -3302,7 +3302,7 @@
   {
     "name": "gif-interlaced_skyline.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126391,
@@ -3312,7 +3312,7 @@
   {
     "name": "gif-interlaced_streepjes.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2573,
@@ -3322,7 +3322,7 @@
   {
     "name": "gif-interlaced_wolk.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 107562,
@@ -3332,7 +3332,7 @@
   {
     "name": "gif_bril.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 67142,
@@ -3342,7 +3342,7 @@
   {
     "name": "gif_grote-ogen.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 79516,
@@ -3352,7 +3352,7 @@
   {
     "name": "gif_logo.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 8857,
@@ -3362,7 +3362,7 @@
   {
     "name": "gif_oog.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 116282,
@@ -3372,7 +3372,7 @@
   {
     "name": "gif_patroon.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 19181,
@@ -3382,7 +3382,7 @@
   {
     "name": "gif_rood.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 97960,
@@ -3392,7 +3392,7 @@
   {
     "name": "gif_skyline.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126391,
@@ -3402,7 +3402,7 @@
   {
     "name": "gif_streepjes.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2573,
@@ -3412,7 +3412,7 @@
   {
     "name": "gif_wolk.gif",
     "tool": "jpegmini-and-imageoptim",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 107562,
@@ -3422,7 +3422,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 3.40331,
     "qualityLossPercent": 5.172077882604679,
     "size": 37177,
@@ -3432,7 +3432,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 4.71431,
     "qualityLossPercent": 10.076153957953954,
     "size": 26251,
@@ -3442,7 +3442,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 2.69691,
     "qualityLossPercent": 4.09806820616539,
     "size": 25731,
@@ -3452,7 +3452,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 7.43253,
     "qualityLossPercent": 12.744196334418707,
     "size": 29761,
@@ -3462,7 +3462,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 6.34813,
     "qualityLossPercent": 2.0970302589852006,
     "size": 125918,
@@ -3472,7 +3472,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 5.53245,
     "qualityLossPercent": 9.536289940308231,
     "size": 32606,
@@ -3482,7 +3482,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 19.4196,
     "qualityLossPercent": 12.899874452806875,
     "size": 61680,
@@ -3492,7 +3492,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 75.9357,
     "qualityLossPercent": 9.995985056511975,
     "size": 35028,
@@ -3502,7 +3502,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 1.59552,
     "qualityLossPercent": 4.6100503906430585,
     "size": 21621,
@@ -3512,7 +3512,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 3.40331,
     "qualityLossPercent": 5.172077882604679,
     "size": 37177,
@@ -3522,7 +3522,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 4.71431,
     "qualityLossPercent": 10.076153957953954,
     "size": 26251,
@@ -3532,7 +3532,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 2.69691,
     "qualityLossPercent": 4.09806820616539,
     "size": 25731,
@@ -3542,7 +3542,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 7.43253,
     "qualityLossPercent": 12.744196334418707,
     "size": 29761,
@@ -3552,7 +3552,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 6.34813,
     "qualityLossPercent": 2.0970302589852006,
     "size": 125918,
@@ -3562,7 +3562,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 5.53245,
     "qualityLossPercent": 9.536289940308231,
     "size": 32606,
@@ -3572,7 +3572,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 19.4196,
     "qualityLossPercent": 12.899874452806875,
     "size": 61680,
@@ -3582,7 +3582,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 75.9357,
     "qualityLossPercent": 9.995985056511975,
     "size": 35028,
@@ -3592,7 +3592,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 1.59552,
     "qualityLossPercent": 4.6100503906430585,
     "size": 21621,
@@ -3602,7 +3602,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 3.40331,
     "qualityLossPercent": 5.172077882604679,
     "size": 37177,
@@ -3612,7 +3612,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 4.71431,
     "qualityLossPercent": 10.076153957953954,
     "size": 26251,
@@ -3622,7 +3622,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 2.69691,
     "qualityLossPercent": 4.09806820616539,
     "size": 25731,
@@ -3632,7 +3632,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 7.43253,
     "qualityLossPercent": 12.744196334418707,
     "size": 29761,
@@ -3642,7 +3642,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 6.34813,
     "qualityLossPercent": 2.0970302589852006,
     "size": 125918,
@@ -3652,7 +3652,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 5.53245,
     "qualityLossPercent": 9.536289940308231,
     "size": 32606,
@@ -3662,7 +3662,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 19.4196,
     "qualityLossPercent": 12.899874452806875,
     "size": 61680,
@@ -3672,7 +3672,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 75.9357,
     "qualityLossPercent": 9.995985056511975,
     "size": 35028,
@@ -3682,7 +3682,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "jpegmini-and-imageoptim",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 1.59552,
     "qualityLossPercent": 4.6100503906430585,
     "size": 21621,
@@ -3692,7 +3692,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 197589,
@@ -3702,7 +3702,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 217562,
@@ -3712,7 +3712,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5576,
@@ -3722,7 +3722,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 307531,
@@ -3732,7 +3732,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3516,
@@ -3742,7 +3742,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 264725,
@@ -3752,7 +3752,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 382779,
@@ -3762,7 +3762,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 340,
@@ -3772,7 +3772,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 201569,
@@ -3782,7 +3782,7 @@
   {
     "name": "png24_bril.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 197089,
@@ -3792,7 +3792,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 214296,
@@ -3802,7 +3802,7 @@
   {
     "name": "png24_logo.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5571,
@@ -3812,7 +3812,7 @@
   {
     "name": "png24_oog.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 307531,
@@ -3822,7 +3822,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3497,
@@ -3832,7 +3832,7 @@
   {
     "name": "png24_rood.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 264725,
@@ -3842,7 +3842,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 382779,
@@ -3852,7 +3852,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 340,
@@ -3862,7 +3862,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 201161,
@@ -3872,7 +3872,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 54865,
@@ -3882,7 +3882,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 61904,
@@ -3892,7 +3892,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5860,
@@ -3902,7 +3902,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 96460,
@@ -3912,7 +3912,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3694,
@@ -3922,7 +3922,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 76909,
@@ -3932,7 +3932,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 103594,
@@ -3942,7 +3942,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 340,
@@ -3952,7 +3952,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 82107,
@@ -3962,7 +3962,7 @@
   {
     "name": "png8_bril.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 54865,
@@ -3972,7 +3972,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 61904,
@@ -3982,7 +3982,7 @@
   {
     "name": "png8_logo.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5860,
@@ -3992,7 +3992,7 @@
   {
     "name": "png8_oog.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 96460,
@@ -4002,7 +4002,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3694,
@@ -4012,7 +4012,7 @@
   {
     "name": "png8_rood.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 76909,
@@ -4022,7 +4022,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 103594,
@@ -4032,7 +4032,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 340,
@@ -4042,7 +4042,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "jpegmini-and-imageoptim",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 82107,
@@ -4052,7 +4052,7 @@
   {
     "name": "gif-interlaced_bril.gif",
     "tool": "kraken",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 68180,
@@ -4062,7 +4062,7 @@
   {
     "name": "gif-interlaced_grote-ogen.gif",
     "tool": "kraken",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 80554,
@@ -4072,7 +4072,7 @@
   {
     "name": "gif-interlaced_logo.gif",
     "tool": "kraken",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9895,
@@ -4082,7 +4082,7 @@
   {
     "name": "gif-interlaced_oog.gif",
     "tool": "kraken",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 117319,
@@ -4092,7 +4092,7 @@
   {
     "name": "gif-interlaced_patroon.gif",
     "tool": "kraken",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20896,
@@ -4102,7 +4102,7 @@
   {
     "name": "gif-interlaced_rood.gif",
     "tool": "kraken",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 98997,
@@ -4112,7 +4112,7 @@
   {
     "name": "gif-interlaced_skyline.gif",
     "tool": "kraken",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 127428,
@@ -4122,7 +4122,7 @@
   {
     "name": "gif-interlaced_streepjes.gif",
     "tool": "kraken",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3610,
@@ -4132,7 +4132,7 @@
   {
     "name": "gif-interlaced_wolk.gif",
     "tool": "kraken",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 107562,
@@ -4142,7 +4142,7 @@
   {
     "name": "gif_bril.gif",
     "tool": "kraken",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 67142,
@@ -4152,7 +4152,7 @@
   {
     "name": "gif_grote-ogen.gif",
     "tool": "kraken",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 80554,
@@ -4162,7 +4162,7 @@
   {
     "name": "gif_logo.gif",
     "tool": "kraken",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 8857,
@@ -4172,7 +4172,7 @@
   {
     "name": "gif_oog.gif",
     "tool": "kraken",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 117319,
@@ -4182,7 +4182,7 @@
   {
     "name": "gif_patroon.gif",
     "tool": "kraken",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20226,
@@ -4192,7 +4192,7 @@
   {
     "name": "gif_rood.gif",
     "tool": "kraken",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 97960,
@@ -4202,7 +4202,7 @@
   {
     "name": "gif_skyline.gif",
     "tool": "kraken",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 127428,
@@ -4212,7 +4212,7 @@
   {
     "name": "gif_streepjes.gif",
     "tool": "kraken",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2573,
@@ -4222,7 +4222,7 @@
   {
     "name": "gif_wolk.gif",
     "tool": "kraken",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108599,
@@ -4232,7 +4232,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "kraken",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 8.48292,
     "qualityLossPercent": 12.891662208821671,
     "size": 13330,
@@ -4242,7 +4242,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "kraken",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 7.80354,
     "qualityLossPercent": 16.678935084254533,
     "size": 15772,
@@ -4252,7 +4252,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "kraken",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 13.1266,
     "qualityLossPercent": 19.94642094658354,
     "size": 30240,
@@ -4262,7 +4262,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "kraken",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 5.93374,
     "qualityLossPercent": 10.174294292440617,
     "size": 42715,
@@ -4272,7 +4272,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "kraken",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 80.1628,
     "qualityLossPercent": 26.48084038054968,
     "size": 105979,
@@ -4282,7 +4282,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "kraken",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 8.1078,
     "qualityLossPercent": 13.9754234702584,
     "size": 23604,
@@ -4292,7 +4292,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "kraken",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 13.6704,
     "qualityLossPercent": 9.080848406746336,
     "size": 91031,
@@ -4302,7 +4302,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "kraken",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 521.023,
     "qualityLossPercent": 68.58616068725301,
     "size": 34951,
@@ -4312,7 +4312,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "kraken",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 2.15152,
     "qualityLossPercent": 6.216541075308585,
     "size": 17536,
@@ -4322,7 +4322,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "kraken",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 8.48292,
     "qualityLossPercent": 12.891662208821671,
     "size": 13330,
@@ -4332,7 +4332,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "kraken",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 7.80354,
     "qualityLossPercent": 16.678935084254533,
     "size": 15772,
@@ -4342,7 +4342,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "kraken",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 13.1266,
     "qualityLossPercent": 19.94642094658354,
     "size": 30240,
@@ -4352,7 +4352,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "kraken",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 5.93374,
     "qualityLossPercent": 10.174294292440617,
     "size": 42715,
@@ -4362,7 +4362,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "kraken",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 80.1628,
     "qualityLossPercent": 26.48084038054968,
     "size": 105979,
@@ -4372,7 +4372,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "kraken",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 8.1078,
     "qualityLossPercent": 13.9754234702584,
     "size": 23604,
@@ -4382,7 +4382,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "kraken",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 13.6704,
     "qualityLossPercent": 9.080848406746336,
     "size": 91031,
@@ -4392,7 +4392,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "kraken",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 521.023,
     "qualityLossPercent": 68.58616068725301,
     "size": 34951,
@@ -4402,7 +4402,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "kraken",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 2.15152,
     "qualityLossPercent": 6.216541075308585,
     "size": 17536,
@@ -4412,7 +4412,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "kraken",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 8.48292,
     "qualityLossPercent": 12.891662208821671,
     "size": 13330,
@@ -4422,7 +4422,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "kraken",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 7.80354,
     "qualityLossPercent": 16.678935084254533,
     "size": 15772,
@@ -4432,7 +4432,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "kraken",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 13.1266,
     "qualityLossPercent": 19.94642094658354,
     "size": 30240,
@@ -4442,7 +4442,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "kraken",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 5.93374,
     "qualityLossPercent": 10.174294292440617,
     "size": 42715,
@@ -4452,7 +4452,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "kraken",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 80.1628,
     "qualityLossPercent": 26.48084038054968,
     "size": 105979,
@@ -4462,7 +4462,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "kraken",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 8.1078,
     "qualityLossPercent": 13.9754234702584,
     "size": 23604,
@@ -4472,7 +4472,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "kraken",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 13.6704,
     "qualityLossPercent": 9.080848406746336,
     "size": 91031,
@@ -4482,7 +4482,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "kraken",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 521.023,
     "qualityLossPercent": 68.58616068725301,
     "size": 34951,
@@ -4492,7 +4492,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "kraken",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 2.15152,
     "qualityLossPercent": 6.216541075308585,
     "size": 17536,
@@ -4502,7 +4502,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "kraken",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 2.9084,
     "qualityLossPercent": 9.810727573865496,
     "size": 78805,
@@ -4512,7 +4512,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "kraken",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 4.52085,
     "qualityLossPercent": 13.649167617701938,
     "size": 80437,
@@ -4522,7 +4522,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "kraken",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0.385311,
     "qualityLossPercent": 2.146746821479113,
     "size": 5248,
@@ -4532,7 +4532,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "kraken",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 4.97065,
     "qualityLossPercent": 17.602511482631748,
     "size": 134307,
@@ -4542,7 +4542,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "kraken",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0.43523,
     "qualityLossPercent": 5.896450722238329,
     "size": 2568,
@@ -4552,7 +4552,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "kraken",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 5.42233,
     "qualityLossPercent": 16.803005887821502,
     "size": 100501,
@@ -4562,7 +4562,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "kraken",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 8.32321,
     "qualityLossPercent": 18.343566800370255,
     "size": 120029,
@@ -4572,7 +4572,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "kraken",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0.0839869,
     "qualityLossPercent": null,
     "size": 340,
@@ -4582,7 +4582,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "kraken",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 1.05127,
     "qualityLossPercent": 3.2626757000847264,
     "size": 89743,
@@ -4592,7 +4592,7 @@
   {
     "name": "png24_bril.png",
     "tool": "kraken",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 2.93787,
     "qualityLossPercent": 9.91013691976077,
     "size": 80967,
@@ -4602,7 +4602,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "kraken",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 4.52085,
     "qualityLossPercent": 13.649167617701938,
     "size": 80437,
@@ -4612,7 +4612,7 @@
   {
     "name": "png24_logo.png",
     "tool": "kraken",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 2.25857,
     "qualityLossPercent": 12.583544120432794,
     "size": 4594,
@@ -4622,7 +4622,7 @@
   {
     "name": "png24_oog.png",
     "tool": "kraken",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 4.96457,
     "qualityLossPercent": 17.58098044145717,
     "size": 134102,
@@ -4632,7 +4632,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "kraken",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 1.27573,
     "qualityLossPercent": 17.283457206261296,
     "size": 2446,
@@ -4642,7 +4642,7 @@
   {
     "name": "png24_rood.png",
     "tool": "kraken",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 5.54853,
     "qualityLossPercent": 17.194081189959714,
     "size": 101374,
@@ -4652,7 +4652,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "kraken",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 8.32321,
     "qualityLossPercent": 18.343566800370255,
     "size": 120029,
@@ -4662,7 +4662,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "kraken",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0.0839869,
     "qualityLossPercent": null,
     "size": 340,
@@ -4672,7 +4672,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "kraken",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 1.05127,
     "qualityLossPercent": 3.2626757000847264,
     "size": 89743,
@@ -4682,7 +4682,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "kraken",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 2.32254,
     "qualityLossPercent": 5.777505802282107,
     "size": 51085,
@@ -4692,7 +4692,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "kraken",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 2.00095,
     "qualityLossPercent": 5.793641601760431,
     "size": 57588,
@@ -4702,7 +4702,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "kraken",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 2.25857,
     "qualityLossPercent": 12.583544120432794,
     "size": 4594,
@@ -4712,7 +4712,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "kraken",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 2.33342,
     "qualityLossPercent": 5.241426094144496,
     "size": 92143,
@@ -4722,7 +4722,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "kraken",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 1.27573,
     "qualityLossPercent": 17.283457206261296,
     "size": 2446,
@@ -4732,7 +4732,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "kraken",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 2.37627,
     "qualityLossPercent": 5.870667292536503,
     "size": 71375,
@@ -4742,7 +4742,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "kraken",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 2.62669,
     "qualityLossPercent": 8.567295617997683,
     "size": 98688,
@@ -4752,7 +4752,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "kraken",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0.0839869,
     "qualityLossPercent": null,
     "size": 340,
@@ -4762,7 +4762,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "kraken",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 5.06907,
     "qualityLossPercent": 17.12569934322549,
     "size": 54845,
@@ -4772,7 +4772,7 @@
   {
     "name": "png8_bril.png",
     "tool": "kraken",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 2.32254,
     "qualityLossPercent": 5.777505802282107,
     "size": 51085,
@@ -4782,7 +4782,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "kraken",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 2.74078,
     "qualityLossPercent": 7.935779019602165,
     "size": 57518,
@@ -4792,7 +4792,7 @@
   {
     "name": "png8_logo.png",
     "tool": "kraken",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 2.25857,
     "qualityLossPercent": 12.583544120432794,
     "size": 4594,
@@ -4802,7 +4802,7 @@
   {
     "name": "png8_oog.png",
     "tool": "kraken",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 2.28167,
     "qualityLossPercent": 5.125183068726022,
     "size": 92095,
@@ -4812,7 +4812,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "kraken",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0.43523,
     "qualityLossPercent": 5.896450722238329,
     "size": 2568,
@@ -4822,7 +4822,7 @@
   {
     "name": "png8_rood.png",
     "tool": "kraken",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 2.37627,
     "qualityLossPercent": 5.870667292536503,
     "size": 71375,
@@ -4832,7 +4832,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "kraken",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 2.62669,
     "qualityLossPercent": 8.567295617997683,
     "size": 98688,
@@ -4842,7 +4842,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "kraken",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0.0839869,
     "qualityLossPercent": null,
     "size": 340,
@@ -4852,7 +4852,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "kraken",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 5.06907,
     "qualityLossPercent": 17.12569934322549,
     "size": 54845,
@@ -4862,7 +4862,7 @@
   {
     "name": "gif-interlaced_bril.gif",
     "tool": "photoshop",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 68188,
@@ -4872,7 +4872,7 @@
   {
     "name": "gif-interlaced_grote-ogen.gif",
     "tool": "photoshop",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 80562,
@@ -4882,7 +4882,7 @@
   {
     "name": "gif-interlaced_logo.gif",
     "tool": "photoshop",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9903,
@@ -4892,7 +4892,7 @@
   {
     "name": "gif-interlaced_oog.gif",
     "tool": "photoshop",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 117327,
@@ -4902,7 +4902,7 @@
   {
     "name": "gif-interlaced_patroon.gif",
     "tool": "photoshop",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20904,
@@ -4912,7 +4912,7 @@
   {
     "name": "gif-interlaced_rood.gif",
     "tool": "photoshop",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 99005,
@@ -4922,7 +4922,7 @@
   {
     "name": "gif-interlaced_skyline.gif",
     "tool": "photoshop",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 127436,
@@ -4932,7 +4932,7 @@
   {
     "name": "gif-interlaced_streepjes.gif",
     "tool": "photoshop",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -4942,7 +4942,7 @@
   {
     "name": "gif-interlaced_wolk.gif",
     "tool": "photoshop",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108607,
@@ -4952,7 +4952,7 @@
   {
     "name": "gif_bril.gif",
     "tool": "photoshop",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75646,
@@ -4962,7 +4962,7 @@
   {
     "name": "gif_grote-ogen.gif",
     "tool": "photoshop",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89330,
@@ -4972,7 +4972,7 @@
   {
     "name": "gif_logo.gif",
     "tool": "photoshop",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 10577,
@@ -4982,7 +4982,7 @@
   {
     "name": "gif_oog.gif",
     "tool": "photoshop",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125547,
@@ -4992,7 +4992,7 @@
   {
     "name": "gif_patroon.gif",
     "tool": "photoshop",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20226,
@@ -5002,7 +5002,7 @@
   {
     "name": "gif_rood.gif",
     "tool": "photoshop",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108099,
@@ -5012,7 +5012,7 @@
   {
     "name": "gif_skyline.gif",
     "tool": "photoshop",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 136200,
@@ -5022,7 +5022,7 @@
   {
     "name": "gif_streepjes.gif",
     "tool": "photoshop",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -5032,7 +5032,7 @@
   {
     "name": "gif_wolk.gif",
     "tool": "photoshop",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119143,
@@ -5042,7 +5042,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "photoshop",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 90882,
@@ -5052,7 +5052,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "photoshop",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 106872,
@@ -5062,7 +5062,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "photoshop",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 53983,
@@ -5072,7 +5072,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "photoshop",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 154122,
@@ -5082,7 +5082,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "photoshop",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 214936,
@@ -5092,7 +5092,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "photoshop",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126677,
@@ -5102,7 +5102,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "photoshop",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 224266,
@@ -5112,7 +5112,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "photoshop",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86995,
@@ -5122,7 +5122,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "photoshop",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86934,
@@ -5132,7 +5132,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "photoshop",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 87258,
@@ -5142,7 +5142,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "photoshop",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 102200,
@@ -5152,7 +5152,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "photoshop",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 50479,
@@ -5162,7 +5162,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "photoshop",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 149251,
@@ -5172,7 +5172,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "photoshop",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 206994,
@@ -5182,7 +5182,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "photoshop",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 121193,
@@ -5192,7 +5192,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "photoshop",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 213285,
@@ -5202,7 +5202,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "photoshop",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 87169,
@@ -5212,7 +5212,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "photoshop",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 84376,
@@ -5222,7 +5222,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "photoshop",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 98041,
@@ -5232,7 +5232,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "photoshop",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 112729,
@@ -5242,7 +5242,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "photoshop",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 66171,
@@ -5252,7 +5252,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "photoshop",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 158587,
@@ -5262,7 +5262,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "photoshop",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 231851,
@@ -5272,7 +5272,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "photoshop",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 132572,
@@ -5282,7 +5282,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "photoshop",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 227997,
@@ -5292,7 +5292,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "photoshop",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 179661,
@@ -5302,7 +5302,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "photoshop",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 101368,
@@ -5312,7 +5312,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "photoshop",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 256654,
@@ -5322,7 +5322,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "photoshop",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 280550,
@@ -5332,7 +5332,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "photoshop",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 18513,
@@ -5342,7 +5342,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "photoshop",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 394268,
@@ -5352,7 +5352,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "photoshop",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 17541,
@@ -5362,7 +5362,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "photoshop",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 342962,
@@ -5372,7 +5372,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "photoshop",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 456949,
@@ -5382,7 +5382,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "photoshop",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2739,
@@ -5392,7 +5392,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "photoshop",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 265403,
@@ -5402,7 +5402,7 @@
   {
     "name": "png24_bril.png",
     "tool": "photoshop",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 216764,
@@ -5412,7 +5412,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "photoshop",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 233302,
@@ -5422,7 +5422,7 @@
   {
     "name": "png24_logo.png",
     "tool": "photoshop",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 12761,
@@ -5432,7 +5432,7 @@
   {
     "name": "png24_oog.png",
     "tool": "photoshop",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 334427,
@@ -5442,7 +5442,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "photoshop",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 16460,
@@ -5452,7 +5452,7 @@
   {
     "name": "png24_rood.png",
     "tool": "photoshop",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 287895,
@@ -5462,7 +5462,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "photoshop",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 400998,
@@ -5472,7 +5472,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "photoshop",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 2245,
@@ -5482,7 +5482,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "photoshop",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 229276,
@@ -5492,7 +5492,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "photoshop",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 74929,
@@ -5502,7 +5502,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "photoshop",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86341,
@@ -5512,7 +5512,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "photoshop",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 10339,
@@ -5522,7 +5522,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "photoshop",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126072,
@@ -5532,7 +5532,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "photoshop",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6565,
@@ -5542,7 +5542,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "photoshop",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 105652,
@@ -5552,7 +5552,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "photoshop",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 131750,
@@ -5562,7 +5562,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "photoshop",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 1995,
@@ -5572,7 +5572,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "photoshop",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 111512,
@@ -5582,7 +5582,7 @@
   {
     "name": "png8_bril.png",
     "tool": "photoshop",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 60869,
@@ -5592,7 +5592,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "photoshop",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 68183,
@@ -5602,7 +5602,7 @@
   {
     "name": "png8_logo.png",
     "tool": "photoshop",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 7685,
@@ -5612,7 +5612,7 @@
   {
     "name": "png8_oog.png",
     "tool": "photoshop",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 106374,
@@ -5622,7 +5622,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "photoshop",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6080,
@@ -5632,7 +5632,7 @@
   {
     "name": "png8_rood.png",
     "tool": "photoshop",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 84088,
@@ -5642,7 +5642,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "photoshop",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 111579,
@@ -5652,7 +5652,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "photoshop",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 1793,
@@ -5662,7 +5662,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "photoshop",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 92568,
@@ -5672,7 +5672,7 @@
   {
     "name": "gif-interlaced_bril.gif",
     "tool": "smushit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 68188,
@@ -5682,7 +5682,7 @@
   {
     "name": "gif-interlaced_grote-ogen.gif",
     "tool": "smushit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 80562,
@@ -5692,7 +5692,7 @@
   {
     "name": "gif-interlaced_logo.gif",
     "tool": "smushit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9903,
@@ -5702,7 +5702,7 @@
   {
     "name": "gif-interlaced_oog.gif",
     "tool": "smushit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 117327,
@@ -5712,7 +5712,7 @@
   {
     "name": "gif-interlaced_patroon.gif",
     "tool": "smushit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20904,
@@ -5722,7 +5722,7 @@
   {
     "name": "gif-interlaced_rood.gif",
     "tool": "smushit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 99005,
@@ -5732,7 +5732,7 @@
   {
     "name": "gif-interlaced_skyline.gif",
     "tool": "smushit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 127436,
@@ -5742,7 +5742,7 @@
   {
     "name": "gif-interlaced_streepjes.gif",
     "tool": "smushit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -5752,7 +5752,7 @@
   {
     "name": "gif-interlaced_wolk.gif",
     "tool": "smushit",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108607,
@@ -5762,7 +5762,7 @@
   {
     "name": "gif_bril.gif",
     "tool": "smushit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75646,
@@ -5772,7 +5772,7 @@
   {
     "name": "gif_grote-ogen.gif",
     "tool": "smushit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89330,
@@ -5782,7 +5782,7 @@
   {
     "name": "gif_logo.gif",
     "tool": "smushit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 10577,
@@ -5792,7 +5792,7 @@
   {
     "name": "gif_oog.gif",
     "tool": "smushit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125547,
@@ -5802,7 +5802,7 @@
   {
     "name": "gif_patroon.gif",
     "tool": "smushit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20226,
@@ -5812,7 +5812,7 @@
   {
     "name": "gif_rood.gif",
     "tool": "smushit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108099,
@@ -5822,7 +5822,7 @@
   {
     "name": "gif_skyline.gif",
     "tool": "smushit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 136200,
@@ -5832,7 +5832,7 @@
   {
     "name": "gif_streepjes.gif",
     "tool": "smushit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -5842,7 +5842,7 @@
   {
     "name": "gif_wolk.gif",
     "tool": "smushit",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119143,
@@ -5852,7 +5852,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "smushit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86911,
@@ -5862,7 +5862,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "smushit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 101596,
@@ -5872,7 +5872,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "smushit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 50367,
@@ -5882,7 +5882,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "smushit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 147215,
@@ -5892,7 +5892,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "smushit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 207314,
@@ -5902,7 +5902,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "smushit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 120738,
@@ -5912,7 +5912,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "smushit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 212781,
@@ -5922,7 +5922,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "smushit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 84075,
@@ -5932,7 +5932,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "smushit",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 83173,
@@ -5942,7 +5942,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "smushit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86935,
@@ -5952,7 +5952,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "smushit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 101620,
@@ -5962,7 +5962,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "smushit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 50391,
@@ -5972,7 +5972,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "smushit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 147239,
@@ -5982,7 +5982,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "smushit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 206994,
@@ -5992,7 +5992,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "smushit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 120762,
@@ -6002,7 +6002,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "smushit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 212805,
@@ -6012,7 +6012,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "smushit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 84099,
@@ -6022,7 +6022,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "smushit",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 83197,
@@ -6032,7 +6032,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "smushit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86911,
@@ -6042,7 +6042,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "smushit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 101596,
@@ -6052,7 +6052,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "smushit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 50367,
@@ -6062,7 +6062,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "smushit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 147215,
@@ -6072,7 +6072,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "smushit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 207314,
@@ -6082,7 +6082,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "smushit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 120738,
@@ -6092,7 +6092,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "smushit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 212781,
@@ -6102,7 +6102,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "smushit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 84075,
@@ -6112,7 +6112,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "smushit",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 83173,
@@ -6122,7 +6122,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "smushit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 248005,
@@ -6132,7 +6132,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "smushit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 266630,
@@ -6142,7 +6142,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "smushit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 13637,
@@ -6152,7 +6152,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "smushit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 382697,
@@ -6162,7 +6162,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "smushit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 17227,
@@ -6172,7 +6172,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "smushit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 327298,
@@ -6182,7 +6182,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "smushit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 446235,
@@ -6192,7 +6192,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "smushit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 1808,
@@ -6202,7 +6202,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "smushit",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 250724,
@@ -6212,7 +6212,7 @@
   {
     "name": "png24_bril.png",
     "tool": "smushit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 208438,
@@ -6222,7 +6222,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "smushit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 221120,
@@ -6232,7 +6232,7 @@
   {
     "name": "png24_logo.png",
     "tool": "smushit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9841,
@@ -6242,7 +6242,7 @@
   {
     "name": "png24_oog.png",
     "tool": "smushit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 324157,
@@ -6252,7 +6252,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "smushit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 16078,
@@ -6262,7 +6262,7 @@
   {
     "name": "png24_rood.png",
     "tool": "smushit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 273597,
@@ -6272,7 +6272,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "smushit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 386063,
@@ -6282,7 +6282,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "smushit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 1319,
@@ -6292,7 +6292,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "smushit",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 216993,
@@ -6302,7 +6302,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "smushit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 74527,
@@ -6312,7 +6312,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "smushit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 85988,
@@ -6322,7 +6322,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "smushit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9442,
@@ -6332,7 +6332,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "smushit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126072,
@@ -6342,7 +6342,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "smushit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6565,
@@ -6352,7 +6352,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "smushit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 105015,
@@ -6362,7 +6362,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "smushit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 131750,
@@ -6372,7 +6372,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "smushit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 1081,
@@ -6382,7 +6382,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "smushit",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 111398,
@@ -6392,7 +6392,7 @@
   {
     "name": "png8_bril.png",
     "tool": "smushit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 60345,
@@ -6402,7 +6402,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "smushit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 67623,
@@ -6412,7 +6412,7 @@
   {
     "name": "png8_logo.png",
     "tool": "smushit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6760,
@@ -6422,7 +6422,7 @@
   {
     "name": "png8_oog.png",
     "tool": "smushit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 106374,
@@ -6432,7 +6432,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "smushit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 5291,
@@ -6442,7 +6442,7 @@
   {
     "name": "png8_rood.png",
     "tool": "smushit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 83861,
@@ -6452,7 +6452,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "smushit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 111579,
@@ -6462,7 +6462,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "smushit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 797,
@@ -6472,7 +6472,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "smushit",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 92422,
@@ -6482,7 +6482,7 @@
   {
     "name": "gif-interlaced_bril.gif",
     "tool": "tinypng",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 68188,
@@ -6492,7 +6492,7 @@
   {
     "name": "gif-interlaced_grote-ogen.gif",
     "tool": "tinypng",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 80562,
@@ -6502,7 +6502,7 @@
   {
     "name": "gif-interlaced_logo.gif",
     "tool": "tinypng",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 9903,
@@ -6512,7 +6512,7 @@
   {
     "name": "gif-interlaced_oog.gif",
     "tool": "tinypng",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 117327,
@@ -6522,7 +6522,7 @@
   {
     "name": "gif-interlaced_patroon.gif",
     "tool": "tinypng",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20904,
@@ -6532,7 +6532,7 @@
   {
     "name": "gif-interlaced_rood.gif",
     "tool": "tinypng",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 99005,
@@ -6542,7 +6542,7 @@
   {
     "name": "gif-interlaced_skyline.gif",
     "tool": "tinypng",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 127436,
@@ -6552,7 +6552,7 @@
   {
     "name": "gif-interlaced_streepjes.gif",
     "tool": "tinypng",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -6562,7 +6562,7 @@
   {
     "name": "gif-interlaced_wolk.gif",
     "tool": "tinypng",
-    "property": "gif-interlaced",
+    "type": "gif-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108607,
@@ -6572,7 +6572,7 @@
   {
     "name": "gif_bril.gif",
     "tool": "tinypng",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 75646,
@@ -6582,7 +6582,7 @@
   {
     "name": "gif_grote-ogen.gif",
     "tool": "tinypng",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 89330,
@@ -6592,7 +6592,7 @@
   {
     "name": "gif_logo.gif",
     "tool": "tinypng",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 10577,
@@ -6602,7 +6602,7 @@
   {
     "name": "gif_oog.gif",
     "tool": "tinypng",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 125547,
@@ -6612,7 +6612,7 @@
   {
     "name": "gif_patroon.gif",
     "tool": "tinypng",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 20226,
@@ -6622,7 +6622,7 @@
   {
     "name": "gif_rood.gif",
     "tool": "tinypng",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 108099,
@@ -6632,7 +6632,7 @@
   {
     "name": "gif_skyline.gif",
     "tool": "tinypng",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 136200,
@@ -6642,7 +6642,7 @@
   {
     "name": "gif_streepjes.gif",
     "tool": "tinypng",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 3618,
@@ -6652,7 +6652,7 @@
   {
     "name": "gif_wolk.gif",
     "tool": "tinypng",
-    "property": "gif",
+    "type": "gif",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 119143,
@@ -6662,7 +6662,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "tinypng",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 90882,
@@ -6672,7 +6672,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "tinypng",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 106872,
@@ -6682,7 +6682,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "tinypng",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 53983,
@@ -6692,7 +6692,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "tinypng",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 154122,
@@ -6702,7 +6702,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "tinypng",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 214936,
@@ -6712,7 +6712,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "tinypng",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 126677,
@@ -6722,7 +6722,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "tinypng",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 224266,
@@ -6732,7 +6732,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "tinypng",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86995,
@@ -6742,7 +6742,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "tinypng",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 86934,
@@ -6752,7 +6752,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "tinypng",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 87258,
@@ -6762,7 +6762,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "tinypng",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 102200,
@@ -6772,7 +6772,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "tinypng",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 50479,
@@ -6782,7 +6782,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "tinypng",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 149251,
@@ -6792,7 +6792,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "tinypng",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 206994,
@@ -6802,7 +6802,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "tinypng",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 121193,
@@ -6812,7 +6812,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "tinypng",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 213285,
@@ -6822,7 +6822,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "tinypng",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 87169,
@@ -6832,7 +6832,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "tinypng",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 84376,
@@ -6842,7 +6842,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "tinypng",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 98041,
@@ -6852,7 +6852,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "tinypng",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 112729,
@@ -6862,7 +6862,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "tinypng",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 66171,
@@ -6872,7 +6872,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "tinypng",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 158587,
@@ -6882,7 +6882,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "tinypng",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 231851,
@@ -6892,7 +6892,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "tinypng",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 132572,
@@ -6902,7 +6902,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "tinypng",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 227997,
@@ -6912,7 +6912,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "tinypng",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 179661,
@@ -6922,7 +6922,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "tinypng",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 101368,
@@ -6932,7 +6932,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "tinypng",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 2.99581,
     "qualityLossPercent": 10.105582372803601,
     "size": 88704,
@@ -6942,7 +6942,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "tinypng",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 4.35375,
     "qualityLossPercent": 13.144666050758111,
     "size": 86658,
@@ -6952,7 +6952,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "tinypng",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6205,
@@ -6962,7 +6962,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "tinypng",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 4.99992,
     "qualityLossPercent": 17.706165031181058,
     "size": 138711,
@@ -6972,7 +6972,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "tinypng",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 4318,
@@ -6982,7 +6982,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "tinypng",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 5.47853,
     "qualityLossPercent": 16.977161450263402,
     "size": 109891,
@@ -6992,7 +6992,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "tinypng",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 8.30445,
     "qualityLossPercent": 18.302221536562786,
     "size": 123415,
@@ -7002,7 +7002,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "tinypng",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 357,
@@ -7012,7 +7012,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "tinypng",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 1.12587,
     "qualityLossPercent": 3.4942010049315506,
     "size": 99758,
@@ -7022,7 +7022,7 @@
   {
     "name": "png24_bril.png",
     "tool": "tinypng",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 2.99581,
     "qualityLossPercent": 10.105582372803601,
     "size": 88704,
@@ -7032,7 +7032,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "tinypng",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 4.35375,
     "qualityLossPercent": 13.144666050758111,
     "size": 86658,
@@ -7042,7 +7042,7 @@
   {
     "name": "png24_logo.png",
     "tool": "tinypng",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6205,
@@ -7052,7 +7052,7 @@
   {
     "name": "png24_oog.png",
     "tool": "tinypng",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 4.99992,
     "qualityLossPercent": 17.706165031181058,
     "size": 138711,
@@ -7062,7 +7062,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "tinypng",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 4318,
@@ -7072,7 +7072,7 @@
   {
     "name": "png24_rood.png",
     "tool": "tinypng",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 5.47853,
     "qualityLossPercent": 16.977161450263402,
     "size": 109891,
@@ -7082,7 +7082,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "tinypng",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 8.30445,
     "qualityLossPercent": 18.302221536562786,
     "size": 123415,
@@ -7092,7 +7092,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "tinypng",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 357,
@@ -7102,7 +7102,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "tinypng",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 1.12587,
     "qualityLossPercent": 3.4942010049315506,
     "size": 99758,
@@ -7112,7 +7112,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "tinypng",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 55699,
@@ -7122,7 +7122,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "tinypng",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 62584,
@@ -7132,7 +7132,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "tinypng",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6205,
@@ -7142,7 +7142,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "tinypng",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 97311,
@@ -7152,7 +7152,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "tinypng",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 4318,
@@ -7162,7 +7162,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "tinypng",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 77393,
@@ -7172,7 +7172,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "tinypng",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 104114,
@@ -7182,7 +7182,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "tinypng",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 357,
@@ -7192,7 +7192,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "tinypng",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 82247,
@@ -7202,7 +7202,7 @@
   {
     "name": "png8_bril.png",
     "tool": "tinypng",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 55699,
@@ -7212,7 +7212,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "tinypng",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 62584,
@@ -7222,7 +7222,7 @@
   {
     "name": "png8_logo.png",
     "tool": "tinypng",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 6205,
@@ -7232,7 +7232,7 @@
   {
     "name": "png8_oog.png",
     "tool": "tinypng",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 97311,
@@ -7242,7 +7242,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "tinypng",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 4318,
@@ -7252,7 +7252,7 @@
   {
     "name": "png8_rood.png",
     "tool": "tinypng",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 77393,
@@ -7262,7 +7262,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "tinypng",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 104114,
@@ -7272,7 +7272,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "tinypng",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 357,
@@ -7282,7 +7282,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "tinypng",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 82247,
@@ -7292,7 +7292,7 @@
   {
     "name": "jpeg-optimised_bril.jpg",
     "tool": "worst",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 65.8016,
     "qualityLossPercent": 100,
     "size": 6133,
@@ -7302,7 +7302,7 @@
   {
     "name": "jpeg-optimised_grote-ogen.jpg",
     "tool": "worst",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 46.7868,
     "qualityLossPercent": 100,
     "size": 6171,
@@ -7312,7 +7312,7 @@
   {
     "name": "jpeg-optimised_logo.jpg",
     "tool": "worst",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 65.8093,
     "qualityLossPercent": 100,
     "size": 9542,
@@ -7322,7 +7322,7 @@
   {
     "name": "jpeg-optimised_oog.jpg",
     "tool": "worst",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 58.3209,
     "qualityLossPercent": 100,
     "size": 6381,
@@ -7332,7 +7332,7 @@
   {
     "name": "jpeg-optimised_patroon.jpg",
     "tool": "worst",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 302.72,
     "qualityLossPercent": 100,
     "size": 23485,
@@ -7342,7 +7342,7 @@
   {
     "name": "jpeg-optimised_rood.jpg",
     "tool": "worst",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 58.0147,
     "qualityLossPercent": 100,
     "size": 6593,
@@ -7352,7 +7352,7 @@
   {
     "name": "jpeg-optimised_skyline.jpg",
     "tool": "worst",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 150.541,
     "qualityLossPercent": 100,
     "size": 10585,
@@ -7362,7 +7362,7 @@
   {
     "name": "jpeg-optimised_streepjes.jpg",
     "tool": "worst",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 759.662,
     "qualityLossPercent": 100,
     "size": 21827,
@@ -7372,7 +7372,7 @@
   {
     "name": "jpeg-optimised_wolk.jpg",
     "tool": "worst",
-    "property": "jpeg-optimised",
+    "type": "jpeg-optimised",
     "meanErrorSquared": 34.6096,
     "qualityLossPercent": 100,
     "size": 4974,
@@ -7382,7 +7382,7 @@
   {
     "name": "jpeg-progressive_bril.jpg",
     "tool": "worst",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 65.8016,
     "qualityLossPercent": 100,
     "size": 6133,
@@ -7392,7 +7392,7 @@
   {
     "name": "jpeg-progressive_grote-ogen.jpg",
     "tool": "worst",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 46.7868,
     "qualityLossPercent": 100,
     "size": 6171,
@@ -7402,7 +7402,7 @@
   {
     "name": "jpeg-progressive_logo.jpg",
     "tool": "worst",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 65.8093,
     "qualityLossPercent": 100,
     "size": 9542,
@@ -7412,7 +7412,7 @@
   {
     "name": "jpeg-progressive_oog.jpg",
     "tool": "worst",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 58.3209,
     "qualityLossPercent": 100,
     "size": 6381,
@@ -7422,7 +7422,7 @@
   {
     "name": "jpeg-progressive_patroon.jpg",
     "tool": "worst",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 302.72,
     "qualityLossPercent": 100,
     "size": 23485,
@@ -7432,7 +7432,7 @@
   {
     "name": "jpeg-progressive_rood.jpg",
     "tool": "worst",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 58.0147,
     "qualityLossPercent": 100,
     "size": 6593,
@@ -7442,7 +7442,7 @@
   {
     "name": "jpeg-progressive_skyline.jpg",
     "tool": "worst",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 150.541,
     "qualityLossPercent": 100,
     "size": 10585,
@@ -7452,7 +7452,7 @@
   {
     "name": "jpeg-progressive_streepjes.jpg",
     "tool": "worst",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 759.662,
     "qualityLossPercent": 100,
     "size": 21827,
@@ -7462,7 +7462,7 @@
   {
     "name": "jpeg-progressive_wolk.jpg",
     "tool": "worst",
-    "property": "jpeg-progressive",
+    "type": "jpeg-progressive",
     "meanErrorSquared": 34.6096,
     "qualityLossPercent": 100,
     "size": 4974,
@@ -7472,7 +7472,7 @@
   {
     "name": "jpeg_bril.jpg",
     "tool": "worst",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 65.8016,
     "qualityLossPercent": 100,
     "size": 6133,
@@ -7482,7 +7482,7 @@
   {
     "name": "jpeg_grote-ogen.jpg",
     "tool": "worst",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 46.7868,
     "qualityLossPercent": 100,
     "size": 6171,
@@ -7492,7 +7492,7 @@
   {
     "name": "jpeg_logo.jpg",
     "tool": "worst",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 65.8093,
     "qualityLossPercent": 100,
     "size": 9542,
@@ -7502,7 +7502,7 @@
   {
     "name": "jpeg_oog.jpg",
     "tool": "worst",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 58.3209,
     "qualityLossPercent": 100,
     "size": 6381,
@@ -7512,7 +7512,7 @@
   {
     "name": "jpeg_patroon.jpg",
     "tool": "worst",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 302.72,
     "qualityLossPercent": 100,
     "size": 23485,
@@ -7522,7 +7522,7 @@
   {
     "name": "jpeg_rood.jpg",
     "tool": "worst",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 58.0147,
     "qualityLossPercent": 100,
     "size": 6593,
@@ -7532,7 +7532,7 @@
   {
     "name": "jpeg_skyline.jpg",
     "tool": "worst",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 150.541,
     "qualityLossPercent": 100,
     "size": 10585,
@@ -7542,7 +7542,7 @@
   {
     "name": "jpeg_streepjes.jpg",
     "tool": "worst",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 759.662,
     "qualityLossPercent": 100,
     "size": 21827,
@@ -7552,7 +7552,7 @@
   {
     "name": "jpeg_wolk.jpg",
     "tool": "worst",
-    "property": "jpeg",
+    "type": "jpeg",
     "meanErrorSquared": 34.6096,
     "qualityLossPercent": 100,
     "size": 4974,
@@ -7562,7 +7562,7 @@
   {
     "name": "png24-interlaced_bril.png",
     "tool": "worst",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 29.6451,
     "qualityLossPercent": 100,
     "size": 37282,
@@ -7572,7 +7572,7 @@
   {
     "name": "png24-interlaced_grote-ogen.png",
     "tool": "worst",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 33.1218,
     "qualityLossPercent": 100,
     "size": 38588,
@@ -7582,7 +7582,7 @@
   {
     "name": "png24-interlaced_logo.png",
     "tool": "worst",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 17.9486,
     "qualityLossPercent": 100,
     "size": 4229,
@@ -7592,7 +7592,7 @@
   {
     "name": "png24-interlaced_oog.png",
     "tool": "worst",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 28.2383,
     "qualityLossPercent": 100,
     "size": 61622,
@@ -7602,7 +7602,7 @@
   {
     "name": "png24-interlaced_patroon.png",
     "tool": "worst",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 7.38122,
     "qualityLossPercent": 100,
     "size": 2808,
@@ -7612,7 +7612,7 @@
   {
     "name": "png24-interlaced_rood.png",
     "tool": "worst",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 32.27,
     "qualityLossPercent": 100,
     "size": 52151,
@@ -7622,7 +7622,7 @@
   {
     "name": "png24-interlaced_skyline.png",
     "tool": "worst",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 45.374,
     "qualityLossPercent": 100,
     "size": 78965,
@@ -7632,7 +7632,7 @@
   {
     "name": "png24-interlaced_streepjes.png",
     "tool": "worst",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 357,
@@ -7642,7 +7642,7 @@
   {
     "name": "png24-interlaced_wolk.png",
     "tool": "worst",
-    "property": "png24-interlaced",
+    "type": "png24-interlaced",
     "meanErrorSquared": 32.2211,
     "qualityLossPercent": 100,
     "size": 28201,
@@ -7652,7 +7652,7 @@
   {
     "name": "png24_bril.png",
     "tool": "worst",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 29.6451,
     "qualityLossPercent": 100,
     "size": 37282,
@@ -7662,7 +7662,7 @@
   {
     "name": "png24_grote-ogen.png",
     "tool": "worst",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 33.1218,
     "qualityLossPercent": 100,
     "size": 38588,
@@ -7672,7 +7672,7 @@
   {
     "name": "png24_logo.png",
     "tool": "worst",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 17.9486,
     "qualityLossPercent": 100,
     "size": 4229,
@@ -7682,7 +7682,7 @@
   {
     "name": "png24_oog.png",
     "tool": "worst",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 28.2383,
     "qualityLossPercent": 100,
     "size": 61622,
@@ -7692,7 +7692,7 @@
   {
     "name": "png24_patroon.png",
     "tool": "worst",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 7.38122,
     "qualityLossPercent": 100,
     "size": 2808,
@@ -7702,7 +7702,7 @@
   {
     "name": "png24_rood.png",
     "tool": "worst",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 32.27,
     "qualityLossPercent": 100,
     "size": 52151,
@@ -7712,7 +7712,7 @@
   {
     "name": "png24_skyline.png",
     "tool": "worst",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 45.374,
     "qualityLossPercent": 100,
     "size": 78965,
@@ -7722,7 +7722,7 @@
   {
     "name": "png24_streepjes.png",
     "tool": "worst",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 357,
@@ -7732,7 +7732,7 @@
   {
     "name": "png24_wolk.png",
     "tool": "worst",
-    "property": "png24",
+    "type": "png24",
     "meanErrorSquared": 32.2211,
     "qualityLossPercent": 100,
     "size": 28201,
@@ -7742,7 +7742,7 @@
   {
     "name": "png8-interlaced_bril.png",
     "tool": "worst",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 40.1997,
     "qualityLossPercent": 100,
     "size": 38627,
@@ -7752,7 +7752,7 @@
   {
     "name": "png8-interlaced_grote-ogen.png",
     "tool": "worst",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 34.537,
     "qualityLossPercent": 100,
     "size": 39359,
@@ -7762,7 +7762,7 @@
   {
     "name": "png8-interlaced_logo.png",
     "tool": "worst",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 17.9486,
     "qualityLossPercent": 100,
     "size": 4229,
@@ -7772,7 +7772,7 @@
   {
     "name": "png8-interlaced_oog.png",
     "tool": "worst",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 44.5188,
     "qualityLossPercent": 100,
     "size": 58732,
@@ -7782,7 +7782,7 @@
   {
     "name": "png8-interlaced_patroon.png",
     "tool": "worst",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 7.38122,
     "qualityLossPercent": 100,
     "size": 2808,
@@ -7792,7 +7792,7 @@
   {
     "name": "png8-interlaced_rood.png",
     "tool": "worst",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 40.477,
     "qualityLossPercent": 100,
     "size": 49219,
@@ -7802,7 +7802,7 @@
   {
     "name": "png8-interlaced_skyline.png",
     "tool": "worst",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 30.6595,
     "qualityLossPercent": 100,
     "size": 77216,
@@ -7812,7 +7812,7 @@
   {
     "name": "png8-interlaced_streepjes.png",
     "tool": "worst",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 357,
@@ -7822,7 +7822,7 @@
   {
     "name": "png8-interlaced_wolk.png",
     "tool": "worst",
-    "property": "png8-interlaced",
+    "type": "png8-interlaced",
     "meanErrorSquared": 29.5992,
     "qualityLossPercent": 100,
     "size": 31513,
@@ -7832,7 +7832,7 @@
   {
     "name": "png8_bril.png",
     "tool": "worst",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 40.1997,
     "qualityLossPercent": 100,
     "size": 38627,
@@ -7842,7 +7842,7 @@
   {
     "name": "png8_grote-ogen.png",
     "tool": "worst",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 34.537,
     "qualityLossPercent": 100,
     "size": 39359,
@@ -7852,7 +7852,7 @@
   {
     "name": "png8_logo.png",
     "tool": "worst",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 17.9486,
     "qualityLossPercent": 100,
     "size": 4229,
@@ -7862,7 +7862,7 @@
   {
     "name": "png8_oog.png",
     "tool": "worst",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 44.5188,
     "qualityLossPercent": 100,
     "size": 58732,
@@ -7872,7 +7872,7 @@
   {
     "name": "png8_patroon.png",
     "tool": "worst",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 7.38122,
     "qualityLossPercent": 100,
     "size": 2808,
@@ -7882,7 +7882,7 @@
   {
     "name": "png8_rood.png",
     "tool": "worst",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 40.477,
     "qualityLossPercent": 100,
     "size": 49219,
@@ -7892,7 +7892,7 @@
   {
     "name": "png8_skyline.png",
     "tool": "worst",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 30.6595,
     "qualityLossPercent": 100,
     "size": 77216,
@@ -7902,7 +7902,7 @@
   {
     "name": "png8_streepjes.png",
     "tool": "worst",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 0,
     "qualityLossPercent": 0,
     "size": 357,
@@ -7912,7 +7912,7 @@
   {
     "name": "png8_wolk.png",
     "tool": "worst",
-    "property": "png8",
+    "type": "png8",
     "meanErrorSquared": 29.5992,
     "qualityLossPercent": 100,
     "size": 31513,
