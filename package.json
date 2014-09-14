@@ -1,6 +1,6 @@
 {
   "name": "image-optimisation-tools-comparison",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generates JSON data comparing the file size savings and quality loss of popular image optimisation tools.",
   "main": "Gruntfile.js",
   "author": "Jamie Mason, siunmaru@gmail.com, @fold_left",
