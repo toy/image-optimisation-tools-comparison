@@ -59,12 +59,13 @@ module.exports = function(grunt) {
 
     webp: {
       files: {
-        src: 'images/photoshop/*',
+        src: 'images/photoshop/*.png',
         dest: 'images/webp'
       },
       options: {
         binpath: require('webp-bin').path,
-        preset: 'default'
+        preset: 'default',
+        verbose: true
       }
     },
 
