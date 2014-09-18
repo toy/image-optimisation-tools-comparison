@@ -57,6 +57,17 @@ module.exports = function(grunt) {
       }
     },
 
+    webp: {
+      files: {
+        src: 'images/photoshop/*',
+        dest: 'images/webp'
+      },
+      options: {
+        binpath: require('webp-bin').path,
+        preset: 'default'
+      }
+    },
+
     jsdoc: {
       dist: {
         src: [
@@ -73,5 +84,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-imageoptim');
   grunt.loadNpmTasks('grunt-jsdoc');
+  grunt.loadNpmTasks('grunt-webp');
 
 };

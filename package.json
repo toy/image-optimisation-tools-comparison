@@ -32,6 +32,8 @@
     "grunt-cli": "^0.1.13",
     "grunt-contrib-imagemin": "^0.8.1",
     "grunt-imageoptim": "^1.4.1",
-    "grunt-jsdoc": "^0.5.7"
+    "grunt-jsdoc": "^0.5.7",
+    "grunt-webp": "0.0.4",
+    "webp-bin": "^0.1.4"
   }
 }
