@@ -21,7 +21,8 @@
     "kraken.io",
     "jpegmini",
     "jpegtran",
-    "pngquant"
+    "pngquant",
+    "image_optim"
   ],
   "bugs": {
     "url": "https://github.com/JamieMason/image-optimisation-tools-comparison/issues"
