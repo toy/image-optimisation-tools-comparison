@@ -116,6 +116,14 @@ Compressed using `grunt imageoptim:imageAlphaAndImageOptim`.
 
 Compressed using `grunt imageoptim:ImageOptimAlone`.
 
+### images/image_optim
+
+Compressed using `image_optim -r images/image_optim --jpegtran-jpegrescan=true`.
+
+### images/image_optim-lossy
+
+Compressed using `image_optim -r images/image_optim-lossy --jpegtran-jpegrescan=true --allow-lossy`.
+
 ### images/jpegmini-and-imageoptim
 
 Compressed using `grunt imageoptim:jpegMiniAndImageOptim`.
@@ -134,4 +142,3 @@ then downloaded and extracted into this directory.
 
 Uploaded in batches of 20 at a time using the uploader at https://tinypng.com, downloaded
 one-by-one then moved into this directory.
-
